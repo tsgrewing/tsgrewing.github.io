@@ -8,7 +8,7 @@ export function Resume() {
             </header> 
             <iframe class="resume-frame col-11" src="assets/Tony Grewing.pdf">
             </iframe>
-            <a class="resume-link" target="_blank" href="assets/Tony Grewing.pdf">View PDF in new tab.</a>
+            <a class="resume-link" target="_blank" href="../../public/assets/Tony Grewing.pdf">View PDF in new tab.</a>
         </section>
     );
 };
