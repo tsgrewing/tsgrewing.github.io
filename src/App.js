@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Header from "./components/Header";
+import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import Home from "./pages/Home";
@@ -13,7 +13,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <Header />
+      <Nav />
       <Wrapper>
       <Switch>
         <Route exact path={["/", "home"]}>

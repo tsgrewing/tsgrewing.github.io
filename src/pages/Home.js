@@ -1,12 +1,10 @@
 import React from "react";
+import Header from "../components/Header";
 
 export function Home() {
     return (
         <div class="row justify-content-center ">
-            <header class="col-xs-12 col-sm-11 col-md-11 col-lg-11">
-            <h2 class="mx-left">About Me</h2>
-            </header>
-
+            <Header title="About Me"/>
             <div class="col-xs-12 col-sm-11 col-md-11 col-lg-11">              
                 <section class="col-xs-12">
                 <img class="img-fluid col-xs-12 col-md-4 float-left mb-2 mr-2" src="assets/images/keywest.JPG" alt="Photo of Tony in Key West" />
