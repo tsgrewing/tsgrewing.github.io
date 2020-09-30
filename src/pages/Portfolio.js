@@ -1,9 +1,9 @@
-import React from "react";
+import React, { Component } from "react";
 import Header from "../components/Header";
 import Project from "../components/Project";
-import projects from "../../projects.json";
+import projects from "../projects.json";
 
-class Portfolio extends Component {
+export default class Portfolio extends Component {
     state = {projects}
 
     render() {
@@ -14,7 +14,7 @@ class Portfolio extends Component {
                 <Project
                     id={project.id}
                     key={project.id}
-                    name={project.name}
+                    title={project.title}
                     image={project.image}
                     description={project.description}
                     repo={project.repo}

@@ -1,6 +1,6 @@
 import React from "react";
 
-export function Footer() {
+export default function Footer() {
     return (
         <footer className="footer container-fluid">
         <section class="footer-content">

@@ -1,10 +1,10 @@
 import React from 'react';
 
-export function About () {
+export default function About () {
     return (
         <div class="col-xs-12 col-sm-11 col-md-11 col-lg-11">              
         <section class="col-xs-12">
-            <img class="img-fluid col-xs-12 col-md-4 float-left mb-2 mr-2" src="assets/images/keywest.JPG" alt="Photo of Tony in Key West" />
+            <img class="img-fluid col-xs-12 col-md-4 float-left mb-2 mr-2" src={"../../assets/images/keywest.JPG"} alt="Photo of Tony in Key West" />
             <p>
                 My name is Tony, and my introduction to coding was an HTML class in middle school, we mostly just covered the basics, but those stuck with me. A few years later I dove a little deeper into web design by using css to personalize a myspace page. I started out by just trying to make my page look less boring, but ended up spending hours and hours changing anything and everything I could until it barely resembled a myspace page at all. Unfortunately I did not really continue with any sort of coding after high school, and most of what I had learned eventually faded from my memory. 
             </p>

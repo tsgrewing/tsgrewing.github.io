@@ -1,6 +1,7 @@
 import React from 'react';
+import "./style.css";
 
-export function ContactForm() {
+function ContactForm() {
     return (
             <form action="https://formspree.io/xknpwyak" method="POST" id="contact-form" class="col-xs-12 col-sm-11 col-md-11 col-lg-11" name="contact-form" >
                 <div class="form-group">
@@ -21,3 +22,5 @@ export function ContactForm() {
             </form>    
     );
 }
+
+export default ContactForm;

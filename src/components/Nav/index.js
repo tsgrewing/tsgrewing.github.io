@@ -1,6 +1,7 @@
 import React from "react";
+import "./style.css";
 
-export function Nav() {
+export default function Nav() {
     return (
         <header>
         <nav class="navbar navbar-expand-lg navbar-fixed-top navbar-dark bg-secondary">
@@ -15,10 +16,10 @@ export function Nav() {
 
                 <div class="collapse navbar-collapse " id="navbarNav">
                     <ul class="nav navbar-nav ml-auto">
-                        <li class="nav-item"><a class="nav-link" href="index.html">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link" href="resume.html">Resume</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="portfolio">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="resume">Resume</a></li>
                     </ul>
                 </div>
             </div>

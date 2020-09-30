@@ -16,16 +16,16 @@ function App() {
       <Nav />
       <Wrapper>
       <Switch>
-        <Route exact path={["/", "home"]}>
+        <Route exact path={["/", "home", "about", "index"]}>
           <Home />
         </Route>
         <Route exact path={["/portfolio"]}>
           <Portfolio />
         </Route>
-        <Route exact path={["contact"]}>
+        <Route exact path={["/contact"]}>
           <Contact />
         </Route>
-        <Route exact path={["resume"]}>
+        <Route exact path={["/resume"]}>
           <Resume />
         </Route>
       </Switch>

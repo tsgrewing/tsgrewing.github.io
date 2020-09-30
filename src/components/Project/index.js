@@ -1,6 +1,7 @@
 import React from 'react';
+import "./style.css";
 
-export function Project(props) {
+export default function Project(props) {
     return (
         <section class="col-xs-12 col-sm-6">
             <div class="img-thumbnail">

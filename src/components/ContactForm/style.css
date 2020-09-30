@@ -1,0 +1,130 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-family: 'Vollkorn SC', serif;
+    background: #474445;
+    margin-bottom: 80px;
+}
+
+header {
+    background-color: #5a1207;
+    color: #c8d0cc;
+    
+}
+
+header .navbar-brand {
+    font-size: 2rem;
+    color: #c8d0cc!important;
+}
+
+header a {
+    font-size: 1.5rem;
+    color: #c8d0cc;
+} 
+
+.bg-secondary {
+    background-color: #5a1207!important;
+    color: #c8d0cc
+}
+
+.navbar-dark .navbar-toggler {
+    color: #c8d0cc;
+    border: 3px solid #c8d0cc;
+}
+
+p {
+    font-family: 'Vollkorn', serif;
+    line-height: 1.75;
+}
+
+.main-content-wrapper header {
+    background-color: #c8d0cc;
+    color: #474445;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.main-content-wrapper {
+    background-color: #c8d0cc;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 1rem;
+    margin-bottom: calc(1rem + 80px);
+}
+
+h2 {
+    border-bottom: 3px double black;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;;
+}
+
+.btn-secondary {
+    background-color: #5a1207;
+    color: #c8d0cc;
+}
+
+/* Footer */
+ .footer a {
+    color: #c8d0cc;
+}
+
+.social-icon {
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.footer-content {
+    line-height: 1.75;
+} 
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #5a1207;
+    color: #c8d0cc;
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* resume styles */
+.resume-frame {
+    height: 65vh;
+}
+
+.resume-link {
+    color: #474445;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.resume-link:hover {
+    text-decoration: underline;
+    color: #5a1207;
+}
+
+/* media queries */
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+    body {
+        background-color: #c8d0cc;
+    }
+    p {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .maincontent {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
