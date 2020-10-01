@@ -1,0 +1,56 @@
+
+.portfolio-title {
+    width: 100%;
+    background-color: rgb(200, 208, 204, 0.5);
+    color: #5a1207;
+    height: 25%;
+    text-align: center;
+}
+
+.portfolio-img {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+}
+
+.portfolio-header {
+    border-bottom: 3px double black;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;;
+}
+
+.portfolio-wrapper {
+    margin-left: .25rem;
+    margin-right: .25rem;
+}
+
+.img-thumbnail {
+    background-color: #474445;
+    border-color: #474445;
+    margin-bottom: 20px;
+}
+
+.caption p{
+    margin-bottom: 0;
+}
+
+a .portfolio-link {
+    text-decoration: none;
+}
+
+.repo-link {
+    text-decoration: none;
+    color: #c8d0cc;
+    cursor: pointer;
+    text-align: center;
+}
+
+.repo-link:hover {
+    color: #c8d0cc;
+    text-decoration: underline;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+}
