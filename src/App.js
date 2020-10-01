@@ -19,13 +19,13 @@ function App() {
         <Route exact path={["/", "home", "about", "index"]}>
           <Home />
         </Route>
-        <Route exact path={["/portfolio"]}>
+        <Route exact path={["/portfolio", "https://tsgrewing.github.io/portfolio"]}>
           <Portfolio />
         </Route>
-        <Route exact path={["/contact"]}>
+        <Route exact path={["/contact", "https://tsgrewing.github.io/contact"]}>
           <Contact />
         </Route>
-        <Route exact path={["/resume"]}>
+        <Route exact path={["/resume", "https://tsgrewing.github.io/resume"]}>
           <Resume />
         </Route>
       </Switch>
