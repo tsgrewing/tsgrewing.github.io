@@ -1,5 +1,4 @@
 import React from 'react';
-import "./style.css";
 import image from "../../assets/images/keywest.JPG";
 
 export default function About () {

@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import "./style.css";
+import React from 'react';
 
 export default function Wrapper(props) {
         return (
