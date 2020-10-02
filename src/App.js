@@ -12,7 +12,7 @@ import "./assets/style1.css";
 
 function App() {
   return (
-    <HashRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter basename={process.env.PUBLIC_URL+ "/"}>
       <Nav />
       <Wrapper>
       <Switch>
