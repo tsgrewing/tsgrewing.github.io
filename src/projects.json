@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Super Hero Search",
-    "image": "./assets/images/superstill.png",
+    "image": "superstill.png",
     "description": "Find your favorite hero",
     "repo": "https://github.com/tsgrewing/Superhero-Search",
     "deployed":"https://tsgrewing.github.io/Superhero-Search"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "D & D Dashboard",
-    "image": "./assets/images/dmstill.png",
+    "image": "dmstill.png",
     "description": "Manage a D&D Campaign",
     "repo": "https://github.com/tsgrewing/project-2",
     "deployed":"https://blooming-ridge-74846.herokuapp.com/"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Employee Directory",
-    "image": "./assets/images/directorystill.png",
+    "image": "directorystill.png",
     "description": "Dynamic employee directory using React",
     "repo": "https://github.com/tsgrewing/employee-directory",
     "deployed":"https://tsgrewing.github.io/employee-directory"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "Code Quiz",
-    "image": "./assets/images/quizstill.png",
+    "image": "quizstill.png",
     "description": "A simple JavaScript Quiz",
     "repo": "https://github.com/tsgrewing/Code-Quiz",
     "deployed":"https://tsgrewing.github.io/Code-Quiz"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "title": "Budget Tracker",
-    "image": "./assets/images/budgetstill.png",
+    "image": "budgetstill.png",
     "description": "Online/Offline Budget Tracker",
     "repo": "https://github.com/tsgrewing/Budget-Tracker",
     "deployed":"https://evening-beach-46735.herokuapp.com/"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "title": "Eat Da Burger",
-    "image": "./assets/images/burgerstill.png",
+    "image": "burgerstill.png",
     "description": "Make a list and devour burgers",
     "repo": "https://github.com/tsgrewing/burger",
     "deployed": "https://fierce-caverns-21989.herokuapp.com/"

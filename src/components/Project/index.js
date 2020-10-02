@@ -6,7 +6,7 @@ export default function Project(props) {
         <section class="col-xs-12 col-sm-6">
             <div class="img-thumbnail">
                 <a class="portfolio-link" href={props.deployed}>
-                    <img class="portfolio-img img-fluid" src={props.image} data-still={props.image} alt={props.title} />
+                    <img class="portfolio-img img-fluid" src={require(`../../assets/images/${props.image}`)} data-still={props.image} alt={props.title} />
                     <div class="portfolio-title caption">
                     <h4>{props.title}</h4>
                     <p>{props.description}</p>
