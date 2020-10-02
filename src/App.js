@@ -16,14 +16,10 @@ function App() {
       <Nav />
       <Wrapper>
       <Switch>
-        <Route exact path={["/", "home", "about", "index"]} component={Home}>
-        </Route>
-        <Route exact path={["/portfolio", "/gh-pages-url/portfolio"]} component={Portfolio}>
-        </Route>
-        <Route exact path={["/contact", "/gh-pages-url/contact"]} component={Contact}>   
-        </Route>
-        <Route exact path={["/resume", "/gh-pages-url/resume"]} component={Resume}>
-        </Route>
+        <Route exact path={["/", "home", "about", "index"]} component={Home} />
+        <Route exact path={["/portfolio"]} component={Portfolio} />
+        <Route exact path={["/contact"]} component={Contact} />   
+        <Route exact path={["/resume"]} component={Resume} />
       </Switch>
       </Wrapper>
       <Footer />
