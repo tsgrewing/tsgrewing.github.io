@@ -12,21 +12,17 @@ import "./assets/style1.css";
 
 function App() {
   return (
-    <HashRouter basename={process.env.PUBLIC_URL+ "/"}>
+    <HashRouter basename="/">
       <Nav />
       <Wrapper>
       <Switch>
-        <Route exact path={["/", "home", "about", "index"]}>
-          <Home />
+        <Route exact path={["/", "home", "about", "index"]} component={Home}>
         </Route>
-        <Route exact path={["/portfolio", "/gh-pages-url/portfolio"]}>
-          <Portfolio />
+        <Route exact path={["/portfolio", "/gh-pages-url/portfolio"]} component={Portfolio}>
         </Route>
-        <Route exact path={["/contact", "/gh-pages-url/contact"]}>
-          <Contact />
+        <Route exact path={["/contact", "/gh-pages-url/contact"]} component={Contact}>   
         </Route>
-        <Route exact path={["/resume", "/gh-pages-url/resume"]}>
-          <Resume />
+        <Route exact path={["/resume", "/gh-pages-url/resume"]} component={Resume}>
         </Route>
       </Switch>
       </Wrapper>
