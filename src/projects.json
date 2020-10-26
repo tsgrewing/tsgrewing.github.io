@@ -1,6 +1,14 @@
 [
   {
     "id": 1,
+    "title": "Boom Roasted",
+    "image": "roastedstill.png",
+    "description": "Track Roasts and Manage Green Coffee Inventory",
+    "repo": "https://github.com/tsgrewing/boom-roasted",
+    "deployed": "https://boom-roasted.herokuapp.com/"
+  },
+  {
+    "id": 2,
     "title": "Super Hero Search",
     "image": "superstill.png",
     "description": "Find your favorite hero",
@@ -8,7 +16,7 @@
     "deployed":"https://tsgrewing.github.io/Superhero-Search"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "D & D Dashboard",
     "image": "dmstill.png",
     "description": "Manage a D&D Campaign",
@@ -16,7 +24,7 @@
     "deployed":"https://blooming-ridge-74846.herokuapp.com/"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Employee Directory",
     "image": "directorystill.png",
     "description": "Dynamic employee directory using React",
@@ -24,7 +32,7 @@
     "deployed":"https://tsgrewing.github.io/employee-directory"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Code Quiz",
     "image": "quizstill.png",
     "description": "A simple JavaScript Quiz",
@@ -32,19 +40,11 @@
     "deployed":"https://tsgrewing.github.io/Code-Quiz"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Budget Tracker",
     "image": "budgetstill.png",
     "description": "Online/Offline Budget Tracker",
     "repo": "https://github.com/tsgrewing/Budget-Tracker",
     "deployed":"https://evening-beach-46735.herokuapp.com/"
-  },
-  {
-    "id": 6,
-    "title": "Eat Da Burger",
-    "image": "burgerstill.png",
-    "description": "Make a list and devour burgers",
-    "repo": "https://github.com/tsgrewing/burger",
-    "deployed": "https://fierce-caverns-21989.herokuapp.com/"
   }
 ]
