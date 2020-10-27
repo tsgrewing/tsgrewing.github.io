@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6a1c49fe.chunk.css",
-    "main.js": "/static/js/main.739810e8.chunk.js",
-    "main.js.map": "/static/js/main.739810e8.chunk.js.map",
+    "main.js": "/static/js/main.b8c85f06.chunk.js",
+    "main.js.map": "/static/js/main.b8c85f06.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2e1dde9e.chunk.js": "/static/js/2.2e1dde9e.chunk.js",
-    "static/js/2.2e1dde9e.chunk.js.map": "/static/js/2.2e1dde9e.chunk.js.map",
+    "static/js/2.b56d0e15.chunk.js": "/static/js/2.b56d0e15.chunk.js",
+    "static/js/2.b56d0e15.chunk.js.map": "/static/js/2.b56d0e15.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.10a9f9210d6a0d813cacc38751c5095d.js": "/precache-manifest.10a9f9210d6a0d813cacc38751c5095d.js",
+    "precache-manifest.3f8d19e8ea7d8d9f4e0c10208eac37ab.js": "/precache-manifest.3f8d19e8ea7d8d9f4e0c10208eac37ab.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.6a1c49fe.chunk.css.map": "/static/css/main.6a1c49fe.chunk.css.map",
-    "static/js/2.2e1dde9e.chunk.js.LICENSE.txt": "/static/js/2.2e1dde9e.chunk.js.LICENSE.txt",
+    "static/js/2.b56d0e15.chunk.js.LICENSE.txt": "/static/js/2.b56d0e15.chunk.js.LICENSE.txt",
     "static/media/Tony Grewing.pdf": "/static/media/Tony Grewing.21e6d30f.pdf",
     "static/media/budgetstill.png": "/static/media/budgetstill.7a083571.png",
     "static/media/burgerstill.png": "/static/media/burgerstill.125405fe.png",
@@ -25,6 +25,7 @@
     "static/media/portfoliodemo.png": "/static/media/portfoliodemo.c686e761.png",
     "static/media/quizdemo.gif": "/static/media/quizdemo.7574cd43.gif",
     "static/media/quizstill.png": "/static/media/quizstill.d08306ce.png",
+    "static/media/roaststill.png": "/static/media/roaststill.7d6f7376.png",
     "static/media/superdemo.gif": "/static/media/superdemo.7b6114f4.gif",
     "static/media/superstill.png": "/static/media/superstill.3f75f3f1.png",
     "static/media/weatherdemo.gif": "/static/media/weatherdemo.652b3a2a.gif",
@@ -33,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2e1dde9e.chunk.js",
+    "static/js/2.b56d0e15.chunk.js",
     "static/css/main.6a1c49fe.chunk.css",
-    "static/js/main.739810e8.chunk.js"
+    "static/js/main.b8c85f06.chunk.js"
   ]
 }
