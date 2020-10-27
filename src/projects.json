@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Boom Roasted",
-    "image": "roastedstill.png",
+    "image": "roaststill.png",
     "description": "Track Roasts and Manage Green Coffee Inventory",
     "repo": "https://github.com/tsgrewing/boom-roasted",
     "deployed": "https://boom-roasted.herokuapp.com/"
