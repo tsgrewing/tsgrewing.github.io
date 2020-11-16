@@ -7,10 +7,10 @@ export default function About () {
         <section class="col-xs-12">
             <img class="img-fluid col-xs-12 col-md-4 float-left mb-2 mr-2" src={image} alt="Photo of Tony in Key West" />
             <p>
-                My name is Tony, and my introduction to coding was an HTML class in middle school, we mostly just covered the basics, but those stuck with me. A few years later I dove a little deeper into web design by using css to personalize a myspace page. I started out by just trying to make my page look less boring, but ended up spending hours and hours changing anything and everything I could until it barely resembled a myspace page at all. Unfortunately I did not really continue with any sort of coding after high school, and most of what I had learned eventually faded from my memory. 
+                Hi, I'm Tony, a software and web developer currently based in Tennessee. I have experience working across the stack and creating apps on my own or in collaboration with a team. I primarily work in JavaScript, Node.js, Express.js and React, but I am always ready to branch out and take on new technologies and learn new skills. Take a look at some of my past projects for a better idea of my skills and strengths, and don't hesitate to get in touch with me to offer feedback or ideas, or just to say hello. 
             </p>
             <p>
-                Working for mostly small businesses has given me the opportunity to work on a wide variety of projects, and I have found myself tasked with maintaining existing websites and online stores fairly often. Keeping pages up to date and adding/removing elements without compromising the site's overall styling meant I spent a lot of time looking through existing code, searching online for short tutorials, and a lot of trial and error. I recently decided it was time to take the leap and start seriously working on my coding knowledge and skills. Looking forward to expanding my existing knowledge and learning some new skills. 
+                When I'm not writing code you can find me enjoying the great outdoors, watching(or occasionally playing) soccer, playing video games or exploring the local brewery and coffee scene. 
             </p>    
         </section>
         </div>
