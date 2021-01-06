@@ -7,7 +7,7 @@ function Contact() {
         <section class="row justify-content-center">
             <Header 
                 title="Contact Me"
-                subtitle="tsgrewing@gmail.com"
+                email="tsgrewing@gmail.com"
             />
             
             <ContactForm />  
